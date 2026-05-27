@@ -1,6 +1,10 @@
-# CTAD Protocol
+# CTAD Protocol · ARCHIVED
 
-### Creative Transparency and Authorship Declaration
+> ⚠️ This iteration is archived. The current substrate is **Nsibidi** at `/home/sphinxy/nsibidi` (shipped v1, Python + TypeScript SDKs, content-addressed declarations, filesystem lake). Do not extend CTAD; use Nsibidi via its SDK instead. See `/mnt/d/Alabo/AlaboStudio/Apps/Nsibidi.md` and `/mnt/d/Alabo/AlaboStudio/AGENTS/AGENTS.md` for the canonical state.
+>
+> Lineage of the protocol: CTAD (v0.1, this repo) → ∞8 ARCH at `/home/sphinxy/o8` (v0.2) → Nsibidi at `/home/sphinxy/nsibidi` (v1.0, current). Each iteration evolved the same fundamental idea; the current one carries the most weight because the protocol now does the work the name implies.
+
+### Creative Transparency and Authorship Declaration · original spec below
 
 > **"Prove your process. Own your story."**
 
